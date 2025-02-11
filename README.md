@@ -136,7 +136,7 @@ plt.show()
 ### Insights
 Clear visualization of customer trends aids in making data-driven business decisions.
 
-## Step 6: Documentation & Future Scope
+## Step 6: Documentation & Future Enhancements
 <b>Summary Report</b>: [`Report.md`](Reports/Report.md) summarizes key findings and insights
 
 ### Future Enhancements
