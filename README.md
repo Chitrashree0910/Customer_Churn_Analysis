@@ -42,7 +42,7 @@ The database is ready for exploratory queries.
 - Performed exploratory queries to analyze churn rates by contract type, payment method, and tenure
 - Applied `GROUP BY`, `ORDER BY`, and `CASE` conditions for trend analysis
 
-Detailed steps can be found in [`explore_data.sql`](sql\explore_data.sql)
+Detailed steps can be found in [`explore_data.sql`](sql/explore_data.sql)
 
 ### Query Visualization
 ```sql
@@ -66,7 +66,7 @@ Customers with <b>longer tenure</b> and <b>annual contracts</b> tend to have low
 - Loaded SQL query results into Pandas DataFrames
 - Ensured correct data types and handled missing values
 
-Detailed steps can be found in [`eda.ipynb`](Notebooks\eda.ipynb)
+Detailed steps can be found in [`eda.ipynb`](Notebooks/eda.ipynb)
 
 ### Data Visualization
 ```python
