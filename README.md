@@ -130,7 +130,7 @@ plt.show()
 ```
 
 ### Result
-![Churn Rate by Contract type](Images/plot.png) 
+![Churn Rate by Contract type](Output_Images/plot.png) 
 *Churn Rate by Contract type*
 
 ### Insights
